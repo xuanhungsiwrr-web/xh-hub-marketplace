@@ -1,5 +1,6 @@
 {
-  "name": "xh-hub",
+  "name": "xh-hub-marketplace",
+  "description": "Marketplace rieng cua Ngo Xuan Hung: cong cu lap bao cao tu van xay dung va quan tri AI_Space",
   "owner": {
     "name": "Ngo Xuan Hung"
   },
@@ -8,7 +9,7 @@
       "name": "xh-tuvan",
       "source": {
         "source": "github",
-        "repo": "xuanhungsiwrr-web/XH-rda"
+        "repo": "xuanhungsiwrr-web/xh-tuvan"
       },
       "description": "Bo cong cu viet cac loai bao cao"
     },
